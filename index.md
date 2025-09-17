@@ -1,12 +1,12 @@
 ---
-title: Сергей — Software Engineer
+title: Sergei — Software Engineer
 ---
 
-# Сергей Иванов
-Краткое summary...
+# Summary
+Short summary...
 
-## Навыки
-- Python, Rust, JavaScript
+# Skills
+- Python
 
-## Проекты
+# Projects
 - [payments](https://github.com/...)
