@@ -1,0 +1,40 @@
+# Site settings
+title: Sergei Konovalov - QA Automation Lead
+description: Seasoned QA Automation Lead with 7+ years of experience building robust testing frameworks and leading quality initiatives
+url: "https://l0kifs.github.io"
+author: Sergei Konovalov
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Jekyll configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# SEO settings
+lang: en
+twitter:
+  username: l0kifs
+social:
+  name: Sergei Konovalov
+  links:
+    - https://github.com/l0kifs
+    - https://linkedin.com/in/your-profile
+
+# Default layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      author: Sergei Konovalov

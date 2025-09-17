@@ -1,0 +1,116 @@
+---
+---
+
+/* Custom CSS for GitHub Pages */
+
+/* Import Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+
+/* Global Styles */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+  color: #2c3e50;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+  background-color: #ffffff;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 0.5rem;
+  margin: 2rem 0 1rem 0;
+}
+
+/* Links */
+a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+/* Lists */
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.3rem;
+}
+
+/* Code blocks */
+code {
+  background-color: #f8f9fa;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9rem;
+  border: 1px solid #e9ecef;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  body {
+    padding: 0 15px;
+  }
+  
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+  
+  .experience-item {
+    margin: 1rem 0;
+    padding: 0.8rem;
+  }
+  
+  .skills-grid {
+    grid-template-columns: 1fr;
+    gap: 0.8rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  .contact-info {
+    background: #f8f9fa !important;
+    color: #2c3e50 !important;
+  }
+  
+  .contact-info h3 {
+    color: #2c3e50 !important;
+  }
+  
+  .contact-links a {
+    color: #3498db !important;
+    border-color: #3498db !important;
+  }
+}
+
+/* Accessibility improvements */
+.contact-links a:focus,
+.contact-links a:active {
+  outline: 2px solid #3498db;
+  outline-offset: 2px;
+}
+
+/* Animation for skill categories */
+.skill-category {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.skill-category:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
