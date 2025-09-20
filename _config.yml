@@ -35,6 +35,7 @@ social:
 defaults:
   - scope:
       path: ""
+      type: "pages"
     values:
-      layout: default
+      layout: resume
       author: Sergei Konovalov
