@@ -99,35 +99,177 @@ My passion lies in transforming manual testing processes into efficient automate
   <div class="skill-category">
     <h4>🤖 Automation & Testing</h4>
     <ul>
-      <li>Test Automation Framework Development</li>
-      <li>CI/CD Pipeline Integration</li>
-      <li>API Testing & Client Library Development</li>
-      <li>UI Testing Automation</li>
-      <li>Performance & Load Testing (jMeter)</li>
-      <li>Security Testing (OWASP Zap Proxy)</li>
+      <li data-tech="automation">Test Automation Framework Development</li>
+      <li data-tech="automation">CI/CD Pipeline Integration</li>
+      <li data-tech="automation">API Testing & Client Library Development</li>
+      <li data-tech="automation">UI Testing Automation</li>
+      <li data-tech="jmeter">Performance & Load Testing (jMeter)</li>
+      <li data-tech="automation">Security Testing (OWASP Zap Proxy)</li>
     </ul>
   </div>
 
   <div class="skill-category">
     <h4>⚙️ Tools & Technologies</h4>
     <ul>
-      <li>Jenkins (Container Setup & Configuration)</li>
-      <li>Docker & Portainer</li>
-      <li>Multi-threaded Test Execution</li>
-      <li>Version Control (Git, SVN)</li>
-      <li>Test Management & Strategy</li>
+      <li data-tech="jenkins">Jenkins (Container Setup & Configuration)</li>
+      <li data-tech="docker">Docker & Portainer</li>
+      <li data-tech="automation">Multi-threaded Test Execution</li>
+      <li data-tech="git">Version Control (Git, SVN)</li>
+      <li data-tech="automation">Test Management & Strategy</li>
     </ul>
   </div>
 
   <div class="skill-category">
     <h4>📋 Methodologies</h4>
     <ul>
-      <li>Pairwise Testing</li>
-      <li>Automated Testing Strategies</li>
-      <li>Cross-functional Collaboration</li>
-      <li>Agile/Scrum Methodologies</li>
-      <li>Quality Assurance Leadership</li>
+      <li data-tech="automation">Pairwise Testing</li>
+      <li data-tech="automation">Automated Testing Strategies</li>
+      <li data-tech="automation">Cross-functional Collaboration</li>
+      <li data-tech="automation">Agile/Scrum Methodologies</li>
+      <li data-tech="automation">Quality Assurance Leadership</li>
     </ul>
+  </div>
+</div>
+
+## 💻 Technology Stack
+
+<div class="tech-stack">
+  <div class="tech-category">
+    <h4>🔬 Testing Frameworks</h4>
+    <div class="tech-icons">
+      <div class="tech-item" data-tech="selenium">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium">
+        </div>
+        <span>Selenium</span>
+      </div>
+      <div class="tech-item" data-tech="pytest">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="PyTest">
+        </div>
+        <span>PyTest</span>
+      </div>
+      <div class="tech-item" data-tech="cucumber">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="Cucumber">
+        </div>
+        <span>Cucumber</span>
+      </div>
+      <div class="tech-item" data-tech="junit">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit">
+        </div>
+        <span>JUnit</span>
+      </div>
+      <div class="tech-item" data-tech="testng">
+        <div class="tech-icon" style="background: #DC382D;">
+          <span style="color: white; font-size: 8px; font-weight: bold;">TNG</span>
+        </div>
+        <span>TestNG</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="tech-category">
+    <h4>🛠️ DevOps & CI/CD</h4>
+    <div class="tech-icons">
+      <div class="tech-item" data-tech="jenkins">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins">
+        </div>
+        <span>Jenkins</span>
+      </div>
+      <div class="tech-item" data-tech="docker">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker">
+        </div>
+        <span>Docker</span>
+      </div>
+      <div class="tech-item" data-tech="git">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git">
+        </div>
+        <span>Git</span>
+      </div>
+      <div class="tech-item" data-tech="kubernetes">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes">
+        </div>
+        <span>Kubernetes</span>
+      </div>
+      <div class="tech-item" data-tech="gitlab">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab">
+        </div>
+        <span>GitLab CI</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="tech-category">
+    <h4>💻 Programming Languages</h4>
+    <div class="tech-icons">
+      <div class="tech-item" data-tech="python">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+        </div>
+        <span>Python</span>
+      </div>
+      <div class="tech-item" data-tech="java">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
+        </div>
+        <span>Java</span>
+      </div>
+      <div class="tech-item" data-tech="javascript">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
+        </div>
+        <span>JavaScript</span>
+      </div>
+      <div class="tech-item" data-tech="bash">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash">
+        </div>
+        <span>Bash</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="tech-category">
+    <h4>📊 Performance & Monitoring</h4>
+    <div class="tech-icons">
+      <div class="tech-item" data-tech="jmeter">
+        <div class="tech-icon" style="background: #D22128;">
+          <span style="color: white; font-size: 8px; font-weight: bold;">JM</span>
+        </div>
+        <span>jMeter</span>
+      </div>
+      <div class="tech-item" data-tech="grafana">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana">
+        </div>
+        <span>Grafana</span>
+      </div>
+      <div class="tech-item" data-tech="prometheus">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus">
+        </div>
+        <span>Prometheus</span>
+      </div>
+      <div class="tech-item" data-tech="postman">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman">
+        </div>
+        <span>Postman</span>
+      </div>
+      <div class="tech-item" data-tech="owasp">
+        <div class="tech-icon" style="background: #000000;">
+          <span style="color: white; font-size: 8px; font-weight: bold;">ZAP</span>
+        </div>
+        <span>OWASP ZAP</span>
+      </div>
+    </div>
   </div>
 </div>
 
