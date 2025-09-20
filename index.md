@@ -138,10 +138,10 @@ My passion lies in transforming manual testing processes into efficient automate
 *September 2009 - August 2014*
 
 <div class="contact-info">
-  <h3>� Let's Connect</h3>
+  <h3>Let's Connect</h3>
   <div class="contact-links">
-    <a href="mailto:your-email@example.com">📧 Email</a>
-    <a href="https://linkedin.com/in/your-profile" target="_blank">💼 LinkedIn</a>
+    <a href="mailto:skonovalov.work@gmail.com">📧 Email</a>
+    <a href="https://www.linkedin.com/in/sergei-konovalov-150766183" target="_blank">💼 LinkedIn</a>
     <a href="https://github.com/l0kifs" target="_blank">🐙 GitHub</a>
   </div>
 </div>
