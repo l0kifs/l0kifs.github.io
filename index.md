@@ -149,23 +149,11 @@ My passion lies in transforming manual testing processes into efficient automate
         </div>
         <span>PyTest</span>
       </div>
-      <div class="tech-item" data-tech="cucumber">
+      <div class="tech-item" data-tech="playwright">
         <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="Cucumber">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright">
         </div>
-        <span>Cucumber</span>
-      </div>
-      <div class="tech-item" data-tech="junit">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit">
-        </div>
-        <span>JUnit</span>
-      </div>
-      <div class="tech-item" data-tech="testng">
-        <div class="tech-icon" style="background: #DC382D;">
-          <span style="color: white; font-size: 8px; font-weight: bold;">TNG</span>
-        </div>
-        <span>TestNG</span>
+        <span>Playwright</span>
       </div>
     </div>
   </div>
@@ -197,11 +185,11 @@ My passion lies in transforming manual testing processes into efficient automate
         </div>
         <span>Kubernetes</span>
       </div>
-      <div class="tech-item" data-tech="gitlab">
+      <div class="tech-item" data-tech="github">
         <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub">
         </div>
-        <span>GitLab CI</span>
+        <span>GitHub</span>
       </div>
     </div>
   </div>
@@ -221,17 +209,11 @@ My passion lies in transforming manual testing processes into efficient automate
         </div>
         <span>Java</span>
       </div>
-      <div class="tech-item" data-tech="javascript">
+      <div class="tech-item" data-tech="csharp">
         <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#">
         </div>
-        <span>JavaScript</span>
-      </div>
-      <div class="tech-item" data-tech="bash">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash">
-        </div>
-        <span>Bash</span>
+        <span>C#</span>
       </div>
     </div>
   </div>
@@ -268,6 +250,42 @@ My passion lies in transforming manual testing processes into efficient automate
           <span style="color: white; font-size: 8px; font-weight: bold;">ZAP</span>
         </div>
         <span>OWASP ZAP</span>
+      </div>
+      <div class="tech-item" data-tech="graylog">
+        <div class="tech-icon" style="background: #FF3633;">
+          <span style="color: white; font-size: 7px; font-weight: bold;">GL</span>
+        </div>
+        <span>Graylog</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="tech-category">
+    <h4>🎯 Test & Task Management</h4>
+    <div class="tech-icons">
+      <div class="tech-item" data-tech="jira">
+        <div class="tech-icon">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira">
+        </div>
+        <span>Jira</span>
+      </div>
+      <div class="tech-item" data-tech="qase">
+        <div class="tech-icon">
+          <img src="https://assets-global.website-files.com/62a25d4b818e6e7c0ad8b13f/62a25d4b818e6ec25bd8b14d_Logo.svg" alt="Qase">
+        </div>
+        <span>Qase</span>
+      </div>
+      <div class="tech-item" data-tech="allure">
+        <div class="tech-icon">
+          <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="Allure Testops">
+        </div>
+        <span>Allure Testops</span>
+      </div>
+      <div class="tech-item" data-tech="zephyr">
+        <div class="tech-icon">
+          <img src="https://www.smartbear.com/globalassets/smartbear/products/zephyr/zephyr-scale-square-logo.png" alt="Zephyr">
+        </div>
+        <span>Zephyr</span>
       </div>
     </div>
   </div>

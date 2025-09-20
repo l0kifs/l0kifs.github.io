@@ -33,13 +33,9 @@ document.addEventListener('DOMContentLoaded', function() {
           fallbackContent = 'Py';
           fallbackColor = '#0A9EDC';
           break;
-        case 'testng':
-          fallbackContent = 'TNG';
-          fallbackColor = '#DC382D';
-          break;
-        case 'cucumber':
-          fallbackContent = 'Cu';
-          fallbackColor = '#23D96C';
+        case 'playwright':
+          fallbackContent = 'PW';
+          fallbackColor = '#2EAD33';
           break;
         case 'jenkins':
           fallbackContent = 'Je';
@@ -53,6 +49,10 @@ document.addEventListener('DOMContentLoaded', function() {
           fallbackContent = 'Git';
           fallbackColor = '#F05032';
           break;
+        case 'github':
+          fallbackContent = 'GH';
+          fallbackColor = '#181717';
+          break;
         case 'kubernetes':
           fallbackContent = 'K8s';
           fallbackColor = '#326CE5';
@@ -65,13 +65,9 @@ document.addEventListener('DOMContentLoaded', function() {
           fallbackContent = 'Jv';
           fallbackColor = '#ED8B00';
           break;
-        case 'javascript':
-          fallbackContent = 'JS';
-          fallbackColor = '#F7DF1E';
-          break;
-        case 'bash':
-          fallbackContent = 'Sh';
-          fallbackColor = '#4EAA25';
+        case 'csharp':
+          fallbackContent = 'C#';
+          fallbackColor = '#239120';
           break;
         case 'grafana':
           fallbackContent = 'Gr';
@@ -85,13 +81,25 @@ document.addEventListener('DOMContentLoaded', function() {
           fallbackContent = 'PM';
           fallbackColor = '#FF6C37';
           break;
-        case 'gitlab':
+        case 'graylog':
           fallbackContent = 'GL';
-          fallbackColor = '#FC6D26';
+          fallbackColor = '#FF3633';
           break;
-        case 'junit':
-          fallbackContent = 'JU';
-          fallbackColor = '#25A162';
+        case 'jira':
+          fallbackContent = 'JR';
+          fallbackColor = '#0052CC';
+          break;
+        case 'qase':
+          fallbackContent = 'Q';
+          fallbackColor = '#4F46E5';
+          break;
+        case 'allure':
+          fallbackContent = 'AT';
+          fallbackColor = '#FF6B35';
+          break;
+        case 'zephyr':
+          fallbackContent = 'Z';
+          fallbackColor = '#0052CC';
           break;
         default:
           fallbackContent = techName.substring(0, 2).toUpperCase();
