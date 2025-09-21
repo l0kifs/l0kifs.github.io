@@ -97,36 +97,51 @@ My passion lies in transforming manual testing processes into efficient automate
 
 <div class="skills-grid">
   <div class="skill-category">
+    <h4>👥 Leadership & Management</h4>
+    <ul>
+      <li data-tech="automation">Team Leadership & Mentoring (5+ engineers)</li>
+      <li data-tech="automation">Project Management & Strategic Planning</li>
+      <li data-tech="automation">Stakeholder Communication & Reporting</li>
+      <li data-tech="automation">Process Improvement & Optimization</li>
+      <li data-tech="automation">Risk Assessment & Mitigation</li>
+      <li data-tech="automation">Budget & Resource Management</li>
+    </ul>
+  </div>
+
+  <div class="skill-category">
     <h4>🤖 Automation & Testing</h4>
     <ul>
-      <li data-tech="automation">Test Automation Framework Development</li>
-      <li data-tech="automation">CI/CD Pipeline Integration</li>
-      <li data-tech="automation">API Testing & Client Library Development</li>
-      <li data-tech="automation">UI Testing Automation</li>
-      <li data-tech="jmeter">Performance & Load Testing (jMeter)</li>
-      <li data-tech="automation">Security Testing (OWASP Zap Proxy)</li>
+      <li data-tech="automation">Test Automation Framework Architecture</li>
+      <li data-tech="automation">End-to-End Test Suite Development</li>
+      <li data-tech="automation">API Testing & Contract Validation</li>
+      <li data-tech="automation">Database Testing & Data Validation</li>
+      <li data-tech="automation">Parallel & Multi-threaded Test Execution</li>
+      <li data-tech="automation">Performance & Load Testing</li>
+      <li data-tech="automation">Security & Vulnerability Testing</li>
     </ul>
   </div>
 
   <div class="skill-category">
-    <h4>⚙️ Tools & Technologies</h4>
+    <h4>⚙️ DevOps & Infrastructure</h4>
     <ul>
-      <li data-tech="jenkins">Jenkins (Container Setup & Configuration)</li>
-      <li data-tech="docker">Docker & Portainer</li>
-      <li data-tech="automation">Multi-threaded Test Execution</li>
-      <li data-tech="git">Version Control (Git, SVN)</li>
-      <li data-tech="automation">Test Management & Strategy</li>
+      <li data-tech="automation">CI/CD Pipeline Design & Implementation</li>
+      <li data-tech="automation">Container Orchestration (Docker/K8s)</li>
+      <li data-tech="automation">Infrastructure as Code (IaC)</li>
+      <li data-tech="automation">Monitoring & Alerting Systems</li>
+      <li data-tech="automation">Test Environment Management</li>
+      <li data-tech="automation">Cloud Platforms Integration</li>
     </ul>
   </div>
 
   <div class="skill-category">
-    <h4>📋 Methodologies</h4>
+    <h4>📋 Methodologies & Soft Skills</h4>
     <ul>
-      <li data-tech="automation">Pairwise Testing</li>
-      <li data-tech="automation">Automated Testing Strategies</li>
-      <li data-tech="automation">Cross-functional Collaboration</li>
-      <li data-tech="automation">Agile/Scrum Methodologies</li>
-      <li data-tech="automation">Quality Assurance Leadership</li>
+      <li data-tech="automation">Agile/Scrum Leadership & Facilitation</li>
+      <li data-tech="automation">Quality Assurance Strategy & Planning</li>
+      <li data-tech="automation">Technical Documentation & Knowledge Sharing</li>
+      <li data-tech="automation">Problem-Solving & Root Cause Analysis</li>
+      <li data-tech="automation">Cross-functional Team Collaboration</li>
+      <li data-tech="automation">Training & Knowledge Transfer</li>
     </ul>
   </div>
 </div>
