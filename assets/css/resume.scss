@@ -261,7 +261,45 @@ h2::before {
   border-radius: 50%;
 }
 
-/* Modern Simple Badge Technology Stack */
+/* Inline Technology Stack */
+.tech-stack-inline {
+  margin: 2rem 0;
+  line-height: 2;
+}
+
+.tech-line {
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tech-line-title {
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  font-weight: 600;
+  min-width: 200px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.tech-line-title::after {
+  content: ':';
+  color: var(--accent-primary);
+  font-weight: bold;
+}
+
+.tech-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+/* Modern Simple Badge Technology Stack (preserved for compatibility) */
 .tech-stack-simple {
   margin: 2rem 0;
 }
@@ -280,15 +318,6 @@ h2::before {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-}
-
-.tech-badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  justify-content: center;
-  max-width: 900px;
-  margin: 0 auto;
 }
 
 .tech-badge {
@@ -666,6 +695,28 @@ strong {
     margin-bottom: 1.5rem;
   }
 
+  /* Inline tech stack responsive styles */
+  .tech-line {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+  
+  .tech-line-title {
+    min-width: auto;
+    width: 100%;
+  }
+  
+  .tech-line-title::after {
+    content: '';
+  }
+  
+  .tech-badges {
+    gap: 0.5rem;
+    justify-content: flex-start;
+    width: 100%;
+  }
+
   /* New simple tech badges responsive styles */
   .tech-badges {
     gap: 0.5rem;
@@ -760,6 +811,15 @@ strong {
   .tech-category h4 {
     font-size: 1rem;
     margin-bottom: 1.25rem;
+  }
+
+  /* Inline tech stack small screens */
+  .tech-line {
+    margin-bottom: 1.25rem;
+  }
+  
+  .tech-line-title {
+    font-size: 1rem;
   }
 
   /* Small screen tech badges */

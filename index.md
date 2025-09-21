@@ -133,9 +133,9 @@ My passion lies in transforming manual testing processes into efficient automate
 
 ## 💻 Technology Stack
 
-<div class="tech-stack-simple">
-  <div class="tech-section">
-    <h4>🔬 Testing Frameworks</h4>
+<div class="tech-stack-inline">
+  <div class="tech-line">
+    <div class="tech-line-title">🔬 Testing Frameworks</div>
     <div class="tech-badges">
       <span class="tech-badge primary">Selenium</span>
       <span class="tech-badge primary">PyTest</span>
@@ -143,8 +143,8 @@ My passion lies in transforming manual testing processes into efficient automate
     </div>
   </div>
 
-  <div class="tech-section">
-    <h4>🛠️ DevOps & CI/CD</h4>
+  <div class="tech-line">
+    <div class="tech-line-title">🛠️ DevOps & CI/CD</div>
     <div class="tech-badges">
       <span class="tech-badge secondary">Jenkins</span>
       <span class="tech-badge secondary">Docker</span>
@@ -154,8 +154,8 @@ My passion lies in transforming manual testing processes into efficient automate
     </div>
   </div>
 
-  <div class="tech-section">
-    <h4>💻 Programming Languages</h4>
+  <div class="tech-line">
+    <div class="tech-line-title">💻 Programming Languages</div>
     <div class="tech-badges">
       <span class="tech-badge accent">Python</span>
       <span class="tech-badge accent">Java</span>
@@ -163,8 +163,8 @@ My passion lies in transforming manual testing processes into efficient automate
     </div>
   </div>
 
-  <div class="tech-section">
-    <h4>📊 Performance & Monitoring</h4>
+  <div class="tech-line">
+    <div class="tech-line-title">📊 Performance & Monitoring</div>
     <div class="tech-badges">
       <span class="tech-badge neutral">Grafana</span>
       <span class="tech-badge neutral">Prometheus</span>
@@ -175,8 +175,8 @@ My passion lies in transforming manual testing processes into efficient automate
     </div>
   </div>
 
-  <div class="tech-section">
-    <h4>🎯 Test & Task Management</h4>
+  <div class="tech-line">
+    <div class="tech-line-title">🎯 Test & Task Management</div>
     <div class="tech-badges">
       <span class="tech-badge primary">Jira</span>
       <span class="tech-badge primary">Qase</span>
