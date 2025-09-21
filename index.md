@@ -133,160 +133,55 @@ My passion lies in transforming manual testing processes into efficient automate
 
 ## 💻 Technology Stack
 
-<div class="tech-stack">
-  <div class="tech-category">
+<div class="tech-stack-simple">
+  <div class="tech-section">
     <h4>🔬 Testing Frameworks</h4>
-    <div class="tech-icons">
-      <div class="tech-item" data-tech="selenium">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium">
-        </div>
-        <span>Selenium</span>
-      </div>
-      <div class="tech-item" data-tech="pytest">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="PyTest">
-        </div>
-        <span>PyTest</span>
-      </div>
-      <div class="tech-item" data-tech="playwright">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright">
-        </div>
-        <span>Playwright</span>
-      </div>
+    <div class="tech-badges">
+      <span class="tech-badge primary">Selenium</span>
+      <span class="tech-badge primary">PyTest</span>
+      <span class="tech-badge primary">Playwright</span>
     </div>
   </div>
 
-  <div class="tech-category">
+  <div class="tech-section">
     <h4>🛠️ DevOps & CI/CD</h4>
-    <div class="tech-icons">
-      <div class="tech-item" data-tech="jenkins">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins">
-        </div>
-        <span>Jenkins</span>
-      </div>
-      <div class="tech-item" data-tech="docker">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker">
-        </div>
-        <span>Docker</span>
-      </div>
-      <div class="tech-item" data-tech="git">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git">
-        </div>
-        <span>Git</span>
-      </div>
-      <div class="tech-item" data-tech="kubernetes">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes">
-        </div>
-        <span>Kubernetes</span>
-      </div>
-      <div class="tech-item" data-tech="github">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub">
-        </div>
-        <span>GitHub</span>
-      </div>
+    <div class="tech-badges">
+      <span class="tech-badge secondary">Jenkins</span>
+      <span class="tech-badge secondary">Docker</span>
+      <span class="tech-badge secondary">Git</span>
+      <span class="tech-badge secondary">Kubernetes</span>
+      <span class="tech-badge secondary">GitHub</span>
     </div>
   </div>
 
-  <div class="tech-category">
+  <div class="tech-section">
     <h4>💻 Programming Languages</h4>
-    <div class="tech-icons">
-      <div class="tech-item" data-tech="python">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
-        </div>
-        <span>Python</span>
-      </div>
-      <div class="tech-item" data-tech="java">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
-        </div>
-        <span>Java</span>
-      </div>
-      <div class="tech-item" data-tech="csharp">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#">
-        </div>
-        <span>C#</span>
-      </div>
+    <div class="tech-badges">
+      <span class="tech-badge accent">Python</span>
+      <span class="tech-badge accent">Java</span>
+      <span class="tech-badge accent">C#</span>
     </div>
   </div>
 
-  <div class="tech-category">
+  <div class="tech-section">
     <h4>📊 Performance & Monitoring</h4>
-    <div class="tech-icons">
-      <div class="tech-item" data-tech="jmeter">
-        <div class="tech-icon" style="background: #D22128;">
-          <span style="color: white; font-size: 8px; font-weight: bold;">JM</span>
-        </div>
-        <span>jMeter</span>
-      </div>
-      <div class="tech-item" data-tech="grafana">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana">
-        </div>
-        <span>Grafana</span>
-      </div>
-      <div class="tech-item" data-tech="prometheus">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus">
-        </div>
-        <span>Prometheus</span>
-      </div>
-      <div class="tech-item" data-tech="postman">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman">
-        </div>
-        <span>Postman</span>
-      </div>
-      <div class="tech-item" data-tech="owasp">
-        <div class="tech-icon" style="background: #000000;">
-          <span style="color: white; font-size: 8px; font-weight: bold;">ZAP</span>
-        </div>
-        <span>OWASP ZAP</span>
-      </div>
-      <div class="tech-item" data-tech="graylog">
-        <div class="tech-icon" style="background: #FF3633;">
-          <span style="color: white; font-size: 7px; font-weight: bold;">GL</span>
-        </div>
-        <span>Graylog</span>
-      </div>
+    <div class="tech-badges">
+      <span class="tech-badge neutral">Grafana</span>
+      <span class="tech-badge neutral">Prometheus</span>
+      <span class="tech-badge neutral">Postman</span>
+      <span class="tech-badge neutral">Graylog</span>
+      <span class="tech-badge neutral">OWASP ZAP</span>
+      <span class="tech-badge neutral">jMeter</span>
     </div>
   </div>
 
-  <div class="tech-category">
+  <div class="tech-section">
     <h4>🎯 Test & Task Management</h4>
-    <div class="tech-icons">
-      <div class="tech-item" data-tech="jira">
-        <div class="tech-icon">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira">
-        </div>
-        <span>Jira</span>
-      </div>
-      <div class="tech-item" data-tech="qase">
-        <div class="tech-icon">
-          <img src="https://assets-global.website-files.com/62a25d4b818e6e7c0ad8b13f/62a25d4b818e6ec25bd8b14d_Logo.svg" alt="Qase">
-        </div>
-        <span>Qase</span>
-      </div>
-      <div class="tech-item" data-tech="allure">
-        <div class="tech-icon">
-          <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="Allure Testops">
-        </div>
-        <span>Allure Testops</span>
-      </div>
-      <div class="tech-item" data-tech="zephyr">
-        <div class="tech-icon">
-          <img src="https://www.smartbear.com/globalassets/smartbear/products/zephyr/zephyr-scale-square-logo.png" alt="Zephyr">
-        </div>
-        <span>Zephyr</span>
-      </div>
+    <div class="tech-badges">
+      <span class="tech-badge primary">Jira</span>
+      <span class="tech-badge primary">Qase</span>
+      <span class="tech-badge primary">Allure Testops</span>
+      <span class="tech-badge primary">Zephyr</span>
     </div>
   </div>
 </div>
