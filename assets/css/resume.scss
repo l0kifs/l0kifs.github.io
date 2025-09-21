@@ -322,16 +322,28 @@ h2::before {
 
 .tech-badge {
   display: inline-block;
-  padding: 0.6rem 1.2rem;
+  padding: 0.5rem 1rem;
   border-radius: 25px;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 500;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  text-decoration: none;
+  transition: all 0.3s ease;
   cursor: default;
   border: 2px solid transparent;
   backdrop-filter: blur(10px);
   position: relative;
   overflow: hidden;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.tech-badge img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  border-radius: 3px;
+  flex-shrink: 0;
 }
 
 .tech-badge::before {
@@ -356,50 +368,58 @@ h2::before {
 
 /* Primary badges - Core Technologies */
 .tech-badge.primary {
-  background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+  background: linear-gradient(135deg, #1e3a8a, #1e293b);
   color: white;
-  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.2);
+  border: 1px solid rgba(96, 165, 250, 0.25);
 }
 
 .tech-badge.primary:hover {
-  background: linear-gradient(135deg, #1d4ed8, #1e40af);
-  box-shadow: 0 8px 30px rgba(59, 130, 246, 0.4);
+  background: linear-gradient(135deg, #1e40af, #1e3a8a);
+  box-shadow: 0 8px 30px rgba(59, 130, 246, 0.35);
+  border-color: rgba(96, 165, 250, 0.4);
 }
 
 /* Secondary badges - DevOps & Infrastructure */
 .tech-badge.secondary {
-  background: linear-gradient(135deg, #8b5cf6, #7c3aed);
+  background: linear-gradient(135deg, #581c87, #312e81);
   color: white;
-  box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3);
+  box-shadow: 0 4px 15px rgba(139, 92, 246, 0.2);
+  border: 1px solid rgba(167, 139, 250, 0.25);
 }
 
 .tech-badge.secondary:hover {
-  background: linear-gradient(135deg, #7c3aed, #6d28d9);
-  box-shadow: 0 8px 30px rgba(139, 92, 246, 0.4);
+  background: linear-gradient(135deg, #6d28d9, #581c87);
+  box-shadow: 0 8px 30px rgba(139, 92, 246, 0.35);
+  border-color: rgba(167, 139, 250, 0.4);
 }
 
 /* Accent badges - Testing & Quality */
 .tech-badge.accent {
-  background: linear-gradient(135deg, #06b6d4, #0891b2);
+  background: linear-gradient(135deg, #0c4a6e, #1e293b);
   color: white;
-  box-shadow: 0 4px 15px rgba(6, 182, 212, 0.3);
+  box-shadow: 0 4px 15px rgba(6, 182, 212, 0.2);
+  border: 1px solid rgba(103, 232, 249, 0.25);
 }
 
 .tech-badge.accent:hover {
-  background: linear-gradient(135deg, #0891b2, #0e7490);
-  box-shadow: 0 8px 30px rgba(6, 182, 212, 0.4);
+  background: linear-gradient(135deg, #0e7490, #0c4a6e);
+  box-shadow: 0 8px 30px rgba(6, 182, 212, 0.35);
+  border-color: rgba(103, 232, 249, 0.4);
 }
 
 /* Neutral badges - Management & Monitoring */
 .tech-badge.neutral {
-  background: linear-gradient(135deg, #6b7280, #4b5563);
+  background: linear-gradient(135deg, #1f2937, #0f172a);
   color: white;
-  box-shadow: 0 4px 15px rgba(107, 114, 128, 0.3);
+  box-shadow: 0 4px 15px rgba(107, 114, 128, 0.2);
+  border: 1px solid rgba(156, 163, 175, 0.25);
 }
 
 .tech-badge.neutral:hover {
-  background: linear-gradient(135deg, #4b5563, #374151);
-  box-shadow: 0 8px 30px rgba(107, 114, 128, 0.4);
+  background: linear-gradient(135deg, #374151, #1f2937);
+  box-shadow: 0 8px 30px rgba(107, 114, 128, 0.35);
+  border-color: rgba(156, 163, 175, 0.4);
 }
 
 /* Technology Stack Section - Modern Pill/Badge Style */
@@ -727,6 +747,11 @@ strong {
     font-size: 0.8rem;
     padding: 0.5rem 1rem;
   }
+
+  .tech-badge img {
+    width: 22px;
+    height: 22px;
+  }
   
   .tech-section {
     margin-bottom: 2rem;
@@ -831,6 +856,11 @@ strong {
     font-size: 0.75rem;
     padding: 0.4rem 0.8rem;
     border-radius: 20px;
+  }
+
+  .tech-badge img {
+    width: 20px;
+    height: 20px;
   }
   
   .tech-section h4 {

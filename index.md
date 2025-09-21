@@ -137,51 +137,114 @@ My passion lies in transforming manual testing processes into efficient automate
   <div class="tech-line">
     <div class="tech-line-title">🔬 Testing Frameworks</div>
     <div class="tech-badges">
-      <span class="tech-badge primary">Selenium</span>
-      <span class="tech-badge primary">PyTest</span>
-      <span class="tech-badge primary">Playwright</span>
+      <span class="tech-badge primary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="16" height="16" alt="Selenium">
+        Selenium
+      </span>
+      <span class="tech-badge primary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="16" height="16" alt="PyTest">
+        PyTest
+      </span>
+      <span class="tech-badge primary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="16" height="16" alt="Playwright">
+        Playwright
+      </span>
     </div>
   </div>
 
   <div class="tech-line">
     <div class="tech-line-title">🛠️ DevOps & CI/CD</div>
     <div class="tech-badges">
-      <span class="tech-badge secondary">Jenkins</span>
-      <span class="tech-badge secondary">Docker</span>
-      <span class="tech-badge secondary">Git</span>
-      <span class="tech-badge secondary">Kubernetes</span>
-      <span class="tech-badge secondary">GitHub</span>
+      <span class="tech-badge secondary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="16" height="16" alt="Jenkins">
+        Jenkins
+      </span>
+      <span class="tech-badge secondary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" height="16" alt="Docker">
+        Docker
+      </span>
+      <span class="tech-badge secondary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" alt="Git">
+        Git
+      </span>
+      <span class="tech-badge secondary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="16" height="16" alt="Kubernetes">
+        Kubernetes
+      </span>
+      <span class="tech-badge secondary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" alt="GitHub">
+        GitHub
+      </span>
     </div>
   </div>
 
   <div class="tech-line">
     <div class="tech-line-title">💻 Programming Languages</div>
     <div class="tech-badges">
-      <span class="tech-badge accent">Python</span>
-      <span class="tech-badge accent">Java</span>
-      <span class="tech-badge accent">C#</span>
+      <span class="tech-badge accent">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python">
+        Python
+      </span>
+      <span class="tech-badge accent">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java">
+        Java
+      </span>
+      <span class="tech-badge accent">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16" alt="C#">
+        C#
+      </span>
     </div>
   </div>
 
   <div class="tech-line">
     <div class="tech-line-title">📊 Performance & Monitoring</div>
     <div class="tech-badges">
-      <span class="tech-badge neutral">Grafana</span>
-      <span class="tech-badge neutral">Prometheus</span>
-      <span class="tech-badge neutral">Postman</span>
-      <span class="tech-badge neutral">Graylog</span>
-      <span class="tech-badge neutral">OWASP ZAP</span>
-      <span class="tech-badge neutral">jMeter</span>
+      <span class="tech-badge neutral">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="16" height="16" alt="Grafana">
+        Grafana
+      </span>
+      <span class="tech-badge neutral">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="16" height="16" alt="Prometheus">
+        Prometheus
+      </span>
+      <span class="tech-badge neutral">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="16" height="16" alt="Postman">
+        Postman
+      </span>
+      <span class="tech-badge neutral">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/graylog.svg" width="16" height="16" alt="Graylog" style="filter: invert(1);">
+        Graylog
+      </span>
+      <span class="tech-badge neutral">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="16" height="16" alt="OWASP ZAP" style="filter: invert(1);">
+        OWASP ZAP
+      </span>
+      <span class="tech-badge neutral">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachejmeter.svg" width="16" height="16" alt="jMeter" style="filter: invert(1);">
+        jMeter
+      </span>
     </div>
   </div>
 
   <div class="tech-line">
     <div class="tech-line-title">🎯 Test & Task Management</div>
     <div class="tech-badges">
-      <span class="tech-badge primary">Jira</span>
-      <span class="tech-badge primary">Qase</span>
-      <span class="tech-badge primary">Allure Testops</span>
-      <span class="tech-badge primary">Zephyr</span>
+      <span class="tech-badge primary">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="16" height="16" alt="Jira">
+        Jira
+      </span>
+      <span class="tech-badge primary">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qase.svg" width="16" height="16" alt="Qase" style="filter: invert(1);">
+        Qase
+      </span>
+      <span class="tech-badge primary">
+        <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="16" height="16" alt="Allure Testops">
+        Allure Testops
+      </span>
+      <span class="tech-badge primary">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zephyr.svg" width="16" height="16" alt="Zephyr" style="filter: invert(1);">
+        Zephyr
+      </span>
     </div>
   </div>
 </div>
