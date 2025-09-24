@@ -273,9 +273,21 @@ My passion lies in transforming manual testing processes into efficient automate
 <div class="contact-info">
   <h3>Let's Connect</h3>
   <div class="contact-links">
-    <a href="mailto:skonovalov.work@gmail.com">📧 Email</a>
-    <a href="https://www.linkedin.com/in/sergei-konovalov-150766183" target="_blank">💼 LinkedIn</a>
-    <a href="https://github.com/l0kifs" target="_blank">🐙 GitHub</a>
+    <a href="mailto:skonovalov.work@gmail.com">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:6px;">
+        <path d="M3 8l9 6 9-6"></path>
+        <path d="M21 8v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8"></path>
+      </svg>
+      Email
+    </a>
+    <a href="https://www.linkedin.com/in/sergei-konovalov-150766183" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" style="vertical-align:middle;margin-right:6px;">
+      LinkedIn
+    </a>
+    <a href="https://github.com/l0kifs" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="16" height="16" style="vertical-align:middle;margin-right:6px;">
+      GitHub
+    </a>
   </div>
 </div>
 
