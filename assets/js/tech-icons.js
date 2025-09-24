@@ -1,6 +1,5 @@
 // Simple modern badge-style tech stack
 document.addEventListener('DOMContentLoaded', function() {
-  console.log('Tech stack loaded successfully!');
   
   // Add subtle animation to tech badges
   const techBadges = document.querySelectorAll('.tech-badge');
