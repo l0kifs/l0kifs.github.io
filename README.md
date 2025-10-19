@@ -16,6 +16,7 @@ Visit the live website: [https://l0kifs.github.io/](https://l0kifs.github.io/)
 - **Responsive Design** optimized for all devices
 - **Technology Stack Visualization** with SVG icons
 - **Professional Resume Layout** with detailed experience
+- **Export to Markdown** - One-click download of resume in Markdown format
 - **Performance Optimized** with fast loading times
 - **SEO Friendly** with proper meta tags and structure
 
